@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/restfulapi":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/restfulapi","hostpath":"/Users/leo/Desktop/Udemy/RESTfulAPI","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/leo/Desktop/Udemy/RESTfulAPI","disabled":false,"__vagrantfile":true}}}
